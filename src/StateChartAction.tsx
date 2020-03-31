@@ -1,5 +1,4 @@
 import React from 'react';
-import { ReactPortal } from 'react';
 import { ActionObject, Guard, State, SendActionObject } from 'xstate';
 import { actionTypes } from 'xstate/lib/actions';
 import styled from 'styled-components';
