@@ -14,7 +14,8 @@
     "deploy": "cd public && npm run deploy"
   },
   "files": [
-    "lib"
+    "lib",
+    "src"
   ],
   "author": "David Khourshid",
   "license": "MIT",
